@@ -10,7 +10,11 @@ namespace CalculatorMu
     {
         public void ShowMenu()
         {
-            Console.WriteLine("Buen dia!");
+            Console.WriteLine("Que desea hacer?");
+            Console.WriteLine("1) Suma");
+            Console.WriteLine("2) Resta");
+            Console.WriteLine("3) Multiplicacion");
+            Console.WriteLine("4) Division");
 
             Console.ReadLine();
         }
