@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CalculatorMu\\CalculatorMu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|c:\\users\\user\\desktop\\calculatormu\\calculatormu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|c:\\users\\user\\desktop\\calculatormu\\calculatormu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|c:\\users\\user\\desktop\\calculatormu\\calculatormu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB196F0-116C-45FB-8B0A-5423F13BC533}|CalculatorMu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CalculatorMu\\CalculatorMu\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\CalculatorMu\\CalculatorMu\\MainMenu.cs",
               "RelativeToolTip": "MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T00:47:52.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\CalculatorMu\\CalculatorMu\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
