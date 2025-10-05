@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\bin\Debug\net8.0\CalculatorMu.exe
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\bin\Debug\net8.0\CalculatorMu.deps.json
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\bin\Debug\net8.0\CalculatorMu.runtimeconfig.json
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\bin\Debug\net8.0\CalculatorMu.dll
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\bin\Debug\net8.0\CalculatorMu.pdb
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.AssemblyInfo.cs
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.dll
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\refint\CalculatorMu.dll
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.pdb
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\CalculatorMu.genruntimeconfig.cache
+C:\Users\User\Desktop\CalculatorMu\CalculatorMu\obj\Debug\net8.0\ref\CalculatorMu.dll
